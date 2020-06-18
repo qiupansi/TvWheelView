@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NumberPicker">
+        <attr name="itemTextColor" format="color" />
+        <attr name="itemTextSize" format="integer" />
+        <attr name="itemNumbers" format="integer" />
+        <attr name="itemDrawShadows" format="boolean" />
+        <attr name="itemIsCyclic" format="boolean" />
+    </declare-styleable>
+
+</resources>
